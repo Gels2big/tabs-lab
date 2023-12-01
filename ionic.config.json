@@ -1,0 +1,8 @@
+{
+  "name": "TABS LAB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "81c3f2f0"
+}
